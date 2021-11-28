@@ -98,13 +98,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>project1-cicd-release</name>
 	      <url>http://65.0.61.229:8081/repository/project1-cicd-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>project1-CICD-Snapshot</name>
 	      <url>http://65.0.61.229:8081/repository/project1-CICD-Snapshot/</url>
 	    </snapshotRepository>
 	    
