@@ -25,7 +25,7 @@ sh "${mavenHome}/bin/mvn sonar:sonar"
 }
 
 stage('UploadtoNexus')
-*/
+
 {
 sh "${mavenHome}/bin/mvn deploy"    
 }
@@ -39,4 +39,5 @@ sh "scp -o StrictHostKeyChecking=no target/maven-web-application.war ec2-user@13
 }
 }    
 
+*/
 }
