@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>project1-cicd-release</name>
-	      <url>http://65.0.170.247:8081/repository/project1-cicd-release/</url>
+	      <url>http://65.1.94.220:8081/repository/project1-cicd-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>project1-CICD-Snapshot</name>
-	      <url>http://65.0.170.247:8081/repository/project1-CICD-Snapshot/</url>
+	      <url>http://65.1.94.220:8081/repository/project1-CICD-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
