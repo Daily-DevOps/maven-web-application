@@ -99,13 +99,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>project1-cicd-release</name>
-	      <url>http://3.110.204.186:8081/repository/maven-releases/</url>
+	      <url>http://65.2.121.55:8081/repository/project1-cicd-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>project1-CICD-Snapshot</name>
-	      <url>http://3.110.204.186:8081/repository/maven-snapshots/</url>
+	      <url>http://65.2.121.55:8081/repository/project1-CICD-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
